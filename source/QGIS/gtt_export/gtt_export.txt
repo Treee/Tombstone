@@ -1,0 +1,47 @@
+[## Export settings ##]
+scaling enabled = False
+tiling enabled = False
+tile resolution = 4096
+real terrain size (m) = 15360
+
+[## Terrain Details ##]
+grid size = 4096 x 4096
+cell size (m) = 3.75
+terrain size (m) = 15360
+satmap size (px) = 15360 x 15360
+resolution (m/px) = 1.0
+
+[## Arma config entries ##]
+longitude = -2.910903453702082
+latitude = -54.40235447274862
+mapsize = 15360
+mapzone = 30
+
+[## Surface entries ##]
+cp_grass = (171, 12, 255)  #ab0cff
+cp_rock = (50, 131, 255)  #3283ff
+cp_dirt = (133, 102, 12)  #85660c
+cp_concrete1 = (120, 42, 183)  #782ab7
+cp_concrete2 = (86, 86, 86)  #565656
+cp_broadleaf_dense1 = (28, 131, 86)  #1c8356
+cp_broadleaf_dense2 = (22, 255, 50)  #16ff32
+cp_broadleaf_sparse1 = (248, 226, 161)  #f8e2a1
+cp_broadleaf_sparse2 = (227, 227, 227)  #e3e3e3
+cp_conifer_common1 = (28, 191, 78)  #1cbf4e
+cp_conifer_common2 = (197, 68, 28)  #c5441c
+cp_conifer_moss1 = (223, 161, 254)  #dfa1fe
+cp_conifer_moss2 = (255, 0, 252)  #ff00fc
+cp_grass_tall = (50, 90, 155)  #325a9b
+cp_gravel = (255, 175, 22)  #ffaf16
+en_flowers = (249, 161, 159)  #f9a19f
+en_flowers2 = (145, 173, 28)  #91ad1c
+en_flowers3 = (247, 34, 46)  #f7222e
+en_forest_con = (28, 255, 207)  #1cffcf
+en_forest_dec = (46, 217, 255)  #2ed9ff
+en_grass1 = (177, 12, 161)  #b10ca1
+en_grass2 = (193, 116, 167)  #c174a7
+en_soil = (254, 28, 191)  #fe1cbf
+en_stones = (177, 0, 104)  #b10068
+en_stubble = (250, 227, 38)  #fae326
+en_tarmac_old = (251, 0, 135)  #fb0087
+

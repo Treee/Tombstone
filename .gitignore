@@ -5,11 +5,19 @@ data/layers/
 *.cache
 *.vdat
 
+# Terrain Processor
+source/TerrainProcessor/Tombstone.txt
+
 # sFlora
 source/sFlora/bin/
+*.sdf
 
 # Navmesh
 *.nm
 
 # World
 *.wrp
+
+# Krita
+*.kra
+*.kra~
