@@ -1,0 +1,15 @@
+# Map Data
+data/layers/
+
+# Terrain Builder
+*.cache
+*.vdat
+
+# sFlora
+source/sFlora/bin/
+
+# Navmesh
+*.nm
+
+# World
+*.wrp
