@@ -1,5 +1,7 @@
 # Map Data
-data/layers/
+data/layers/*.paa
+data/layers/*.png
+data/layers/*.rvmat
 
 # Terrain Builder
 *.cache
