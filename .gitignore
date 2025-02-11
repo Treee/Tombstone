@@ -3,6 +3,11 @@ data/layers/*.paa
 data/layers/*.png
 data/layers/*.rvmat
 
+# QGIS
+source/QGIS/gtt_export/*.asc
+source/QGIS/gtt_export/*.bmp
+source/QGIS/gtt_export/*.tif
+
 # Terrain Builder
 *.cache
 *.vdat
