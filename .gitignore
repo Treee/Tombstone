@@ -1,0 +1,34 @@
+# Map Data
+data/layers/*.paa
+data/layers/*.png
+data/layers/*.rvmat
+
+# QGIS
+source/QGIS/gtt_export/*.asc
+source/QGIS/gtt_export/*.bmp
+source/QGIS/gtt_export/*.tif
+
+# Terrain Builder
+*.cache
+*.vdat
+*.v4d
+
+# Terrain Processor
+source/TerrainProcessor/Tombstone.txt
+
+# sFlora
+source/sFlora/bin/
+*.sdf
+
+# Navmesh
+*.nm
+
+# World
+*.wrp
+
+# Krita
+*.kra
+*.kra~
+
+# Central Economy
+ce/*.map
